@@ -5,7 +5,7 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/1Password/srp"
+	"github.com/nitin06890/srp"
 	"github.com/gin-gonic/gin"
 	"github.com/nitin06890/srp-auth.git/customkdf"
 )
